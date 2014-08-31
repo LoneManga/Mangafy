@@ -1,0 +1,64 @@
+.column {
+	float: left;
+	width: 310px;	
+	margin-right: 20px;
+}
+
+.column h2 {
+	margin: 0;	
+}
+
+.column ul {
+	padding-left: 25px;
+}
+
+.kommiku-bread {
+	display: inline;	
+}
+
+#page-img, .narrowcolumn {
+	width:850px;
+	text-align:center;
+}
+
+.narrowcolumn {
+	margin: 0px auto;
+	padding: 0;
+	float: none;	
+}
+
+#page-img {
+	overflow: hidden;	
+	margin:20px 0;
+	}
+
+#imageWrapper {
+	margin: 15px 0;		float:left;
+}
+
+.manga-navi {
+	text-align: center;	
+}
+
+.previousLink {
+	float: left;	
+}
+
+.nextLink {
+	float: right;
+	display:inline;
+}
+
+.description {
+	text-align: left;	
+}
+
+.description h2 {
+	border: 0;	
+}
+
+.description p {
+	text-align: left;
+	margin: 10px;
+	padding:0 15px;	
+}
